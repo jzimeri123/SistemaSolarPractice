@@ -11,5 +11,9 @@ public class SolarSystem {
         xros.temp="3434k";
         xros.color="green";
         xros.radius="3455678miles";
+
+        Planet2 dros=new Planet2();
+        dros.color="yellow";
+        dros.radius="12345";
     }
 }
